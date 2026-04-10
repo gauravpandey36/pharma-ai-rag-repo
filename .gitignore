@@ -1,0 +1,19 @@
+# Ignore environment variable files
+.env
+.env.*
+
+# API keys or secrets
+keys/
+*.pem
+
+# Node modules
+node_modules/
+
+# Python caches and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# System files
+.DS_Store
+Thumbs.db
